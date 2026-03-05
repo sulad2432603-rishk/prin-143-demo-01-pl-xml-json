@@ -1,0 +1,278 @@
+{
+    "code": "PRIN143",
+    "students": [
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "No idea yet.",
+            "firstName": "ZOFIA ELIONOR",
+            "lastName": "ADVINCULA",
+            "reason": "Versatile course."
+        },
+        {
+            "address": "Calumpit, Bulacan",
+            "expectation": "Architeture based on subject title.",
+            "firstName": "ERYN ARABELLA",
+            "lastName": "BALMES",
+            "reason": "In demand & versatile."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Makakatulong sa career.",
+            "firstName": "MARYHALEIN YSHABELA",
+            "lastName": "CATABAS",
+            "reason": "Gusto madaming pera."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Sana Pumasa.",
+            "firstName": "FUMIE JOY",
+            "lastName": "HAKOJIMA",
+            "reason": "Sabi ni mommy"
+        },
+        {
+            "address": "San Ildefonso, Bulacan",
+            "expectation": "Mahirap daw ang subject.",
+            "firstName": "KIRSTEN EMELIZA",
+            "lastName": "MANALASTAS",
+            "reason": "Wala choice."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "No clue.",
+            "firstName": "JEANNE DESSIEREI",
+            "lastName": "MANANSALA",
+            "reason": "In demand at madaming pera."
+        },
+        {
+            "address": "Guiguinto, Bulacan",
+            "expectation": "Madami matutunan and mahirap yung subject.",
+            "firstName": "JULIANA MARIE",
+            "lastName": "MARTINEZ",
+            "reason": "Sabi ng kuya and no choice."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Mahirap subject",
+            "firstName": "MA. ALEXANDRIA",
+            "lastName": "PINGOL",
+            "reason": "Suggestion ng parents"
+        },
+        {
+            "address": "Calumpit, Bulacan",
+            "expectation": "Explore system architecture and design.",
+            "firstName": "TEHYA SHAYE",
+            "lastName": "REYES",
+            "reason": "In demand."
+        },
+        {
+            "address": "Plaridel, Bulacan",
+            "expectation": "Expect the unexpected based from the subject.",
+            "firstName": "MA. ARABELLA",
+            "lastName": "RODRIGUEZ",
+            "reason": "Mataas sahod"
+        },
+        {
+            "address": "Baliwag, Bulacan",
+            "expectation": "Same with Ms. Manalastas.",
+            "firstName": "IRISH KRISTEL",
+            "lastName": "SULAD",
+            "reason": "Recommended as scholarship."
+        },
+        {
+            "address": "Guiguinto, Bulacan",
+            "expectation": "Designing systems.",
+            "firstName": "FRANCHESCA",
+            "lastName": "UNTALAN",
+            "reason": "Sabi ng nanay na nagbabayad ng tuition."
+        },
+        {
+            "address": "Plaridel, Bulacan",
+            "expectation": "Mahirap at nakakabaliw.",
+            "firstName": "RONNE JUSTIN",
+            "lastName": "AGNAS",
+            "reason": "Flexible industry."
+        },
+        {
+            "address": "Baliwag, Bulacan",
+            "expectation": "Maraming matututunan.",
+            "firstName": "LENNARD CHEZTER",
+            "lastName": "ALEJO",
+            "reason": "Flexible course."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Masaya madami matututnan.",
+            "firstName": "IVAN NIKOLAI",
+            "lastName": "AURE",
+            "reason": "Loves PC and Flexible Subject"
+        },
+        {
+            "address": "Calumpit, Bulacan",
+            "expectation": "Create a feasible and scalable systems.",
+            "firstName": "RICHARD CARLO",
+            "lastName": "BARON",
+            "reason": "Noong araw marunong magcode."
+        },
+        {
+            "address": "Sta. Maria, Bulacan",
+            "expectation": "Connectivity ng Hardware and Software",
+            "firstName": "FRANCIS ALBERT",
+            "lastName": "BATAC",
+            "reason": "Pursue AI and CyberSec"
+        },
+        {
+            "address": "",
+            "expectation": "",
+            "firstName": "TRISTAN JACOB",
+            "lastName": "BAUTISTA",
+            "reason": ""
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Designing and integration concepts.",
+            "firstName": "DANIEL JOSEF",
+            "lastName": "CALIWAG",
+            "reason": "In demand at maraming option pag graduate."
+        },
+        {
+            "address": "Hagonoy, Bulacan",
+            "expectation": "Mahirap na masarap.",
+            "firstName": "BRENT",
+            "lastName": "CENTENO",
+            "reason": "Madami opportunity."
+        },
+        {
+            "address": "Apalit, Pampanga",
+            "expectation": "Hardware and software integration to create a system.",
+            "firstName": "JAIRUZ JERIEL",
+            "lastName": "CORTEZ",
+            "reason": "Computer boy since child."
+        },
+        {
+            "address": "Calumpit, Bulacan",
+            "expectation": "Magaaral",
+            "firstName": "ALJO MIGUEL",
+            "lastName": "CULLAMCO",
+            "reason": "Maraming job opportunity."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Middleware and Microservices.",
+            "firstName": "CHARLES ANGELO",
+            "lastName": "DE LUNA",
+            "reason": "Likes to code."
+        },
+        {
+            "address": "Pulilan , Bulacan",
+            "expectation": "No idea.",
+            "firstName": "KERR ANDRESS",
+            "lastName": "DELA ROCA",
+            "reason": "Coding is interesting."
+        },
+        {
+            "address": "Plaridel, Bulacan",
+            "expectation": "Mapapalaban lalo na sa exam.",
+            "firstName": "JURAY",
+            "lastName": "EVANGELISTA",
+            "reason": "Interest in IT and easy to branch out in multiple fields."
+        },
+        {
+            "address": "",
+            "expectation": "",
+            "firstName": "MARK JR",
+            "lastName": "GALANG",
+            "reason": ""
+        },
+        {
+            "address": "Calumpit, Bulacan",
+            "expectation": "Hone skills ion computer programming and integration.",
+            "firstName": "JIRO YVANN",
+            "lastName": "GATBUNTON",
+            "reason": "Find it enjoyable since HS and into games"
+        },
+        {
+            "address": "Sta. Maria, Bulacan",
+            "expectation": "Mahirap daw.",
+            "firstName": "GABRIELLE",
+            "lastName": "JACINTO",
+            "reason": "Di alam pa."
+        },
+        {
+            "address": "Plaridel, Bulacan",
+            "expectation": "50-50 madali at mahirap.",
+            "firstName": "VICTOR EION",
+            "lastName": "MANUEL",
+            "reason": "Ayaw mag nursing."
+        },
+        {
+            "address": "Pulilan, Bulacan",
+            "expectation": "Maraming Matututunan.",
+            "firstName": "OUIM CARL",
+            "lastName": "MERCADO",
+            "reason": "Influence ni kuya."
+        },
+        {
+            "address": "Calumpit, Bulacan",
+            "expectation": "Designing different kinds of systems.",
+            "firstName": "DAISHI",
+            "lastName": "NAKAGAWA",
+            "reason": "In demand for opportunites and inspired from collegues."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Sana fun kahit mahirap.",
+            "firstName": "MANUEL JOAQUIN",
+            "lastName": "OCAMPO",
+            "reason": "Kala ko petiks lang."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Build ng systems and makapasa sa course.",
+            "firstName": "DART JHACOB",
+            "lastName": "RAMOS",
+            "reason": "Enhance coding skills."
+        },
+        {
+            "address": "Sta. Maria, Bulacan",
+            "expectation": "Lot to learn to be used in future work.",
+            "firstName": "MARK LAUREN",
+            "lastName": "SAGANA",
+            "reason": "Enjoyable course."
+        },
+        {
+            "address": "Calumpit, Bulacan",
+            "expectation": "Coding complex systems.",
+            "firstName": "FARYEL FRENZ",
+            "lastName": "STO. DOMINGO",
+            "reason": "Likes computers."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Mahirap kasi ako yung prof.",
+            "firstName": "KENT HERMIN",
+            "lastName": "TADEO",
+            "reason": "Nasimulang subject course"
+        },
+        {
+            "address": "Apalit, Pampanga",
+            "expectation": "May pagkain.",
+            "firstName": "JETHRO GABRIEL",
+            "lastName": "TRAYFALGAR",
+            "reason": "In demand in today's world."
+        },
+        {
+            "address": "City of Malolos, Bulacan",
+            "expectation": "Gumawa ng bagay na mapapadali ang buhay.",
+            "firstName": "JAZREL",
+            "lastName": "VALE",
+            "reason": "Basic lang daw ang IT."
+        },
+        {
+            "address": "Apalit, Pampanga",
+            "expectation": "Too many to mention.",
+            "firstName": "NICHO SEBASTIAN",
+            "lastName": "VILLANUEVA",
+            "reason": "Ayaw mag medicine related course."
+        }
+    ]
+}

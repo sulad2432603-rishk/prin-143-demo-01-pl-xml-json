@@ -1,0 +1,279 @@
+<?xml version="1.0" ?>
+<subject>
+	<code>PRIN143</code>
+	<students>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>No idea yet.</expectation>
+			<firstName>ZOFIA ELIONOR</firstName>
+			<lastName>ADVINCULA</lastName>
+			<reason>Versatile course.</reason>
+		</student>
+		<student>
+			<address>Calumpit, Bulacan</address>
+			<expectation>Architeture based on subject title.</expectation>
+			<firstName>ERYN ARABELLA</firstName>
+			<lastName>BALMES</lastName>
+			<reason>In demand &amp; versatile.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Makakatulong sa career.</expectation>
+			<firstName>MARYHALEIN YSHABELA</firstName>
+			<lastName>CATABAS</lastName>
+			<reason>Gusto madaming pera.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Sana Pumasa.</expectation>
+			<firstName>FUMIE JOY</firstName>
+			<lastName>HAKOJIMA</lastName>
+			<reason>Sabi ni mommy</reason>
+		</student>
+		<student>
+			<address>San Ildefonso, Bulacan</address>
+			<expectation>Mahirap daw ang subject.</expectation>
+			<firstName>KIRSTEN EMELIZA</firstName>
+			<lastName>MANALASTAS</lastName>
+			<reason>Wala choice.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>No clue.</expectation>
+			<firstName>JEANNE DESSIEREI</firstName>
+			<lastName>MANANSALA</lastName>
+			<reason>In demand at madaming pera.</reason>
+		</student>
+		<student>
+			<address>Guiguinto, Bulacan</address>
+			<expectation>Madami matutunan and mahirap yung subject.</expectation>
+			<firstName>JULIANA MARIE</firstName>
+			<lastName>MARTINEZ</lastName>
+			<reason>Sabi ng kuya and no choice.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Mahirap subject</expectation>
+			<firstName>MA. ALEXANDRIA</firstName>
+			<lastName>PINGOL</lastName>
+			<reason>Suggestion ng parents</reason>
+		</student>
+		<student>
+			<address>Calumpit, Bulacan</address>
+			<expectation>Explore system architecture and design.</expectation>
+			<firstName>TEHYA SHAYE</firstName>
+			<lastName>REYES</lastName>
+			<reason>In demand.</reason>
+		</student>
+		<student>
+			<address>Plaridel, Bulacan</address>
+			<expectation>Expect the unexpected based from the subject.</expectation>
+			<firstName>MA. ARABELLA</firstName>
+			<lastName>RODRIGUEZ</lastName>
+			<reason>Mataas sahod</reason>
+		</student>
+		<student>
+			<address>Baliwag, Bulacan</address>
+			<expectation>Same with Ms. Manalastas.</expectation>
+			<firstName>IRISH KRISTEL</firstName>
+			<lastName>SULAD</lastName>
+			<reason>Recommended as scholarship.</reason>
+		</student>
+		<student>
+			<address>Guiguinto, Bulacan</address>
+			<expectation>Designing systems.</expectation>
+			<firstName>FRANCHESCA</firstName>
+			<lastName>UNTALAN</lastName>
+			<reason>Sabi ng nanay na nagbabayad ng tuition.</reason>
+		</student>
+		<student>
+			<address>Plaridel, Bulacan</address>
+			<expectation>Mahirap at nakakabaliw.</expectation>
+			<firstName>RONNE JUSTIN</firstName>
+			<lastName>AGNAS</lastName>
+			<reason>Flexible industry.</reason>
+		</student>
+		<student>
+			<address>Baliwag, Bulacan</address>
+			<expectation>Maraming matututunan.</expectation>
+			<firstName>LENNARD CHEZTER</firstName>
+			<lastName>ALEJO</lastName>
+			<reason>Flexible course.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Masaya madami matututnan.</expectation>
+			<firstName>IVAN NIKOLAI</firstName>
+			<lastName>AURE</lastName>
+			<reason>Loves PC and Flexible Subject</reason>
+		</student>
+		<student>
+			<address>Calumpit, Bulacan</address>
+			<expectation>Create a feasible and scalable systems.</expectation>
+			<firstName>RICHARD CARLO</firstName>
+			<lastName>BARON</lastName>
+			<reason>Noong araw marunong magcode.</reason>
+		</student>
+		<student>
+			<address>Sta. Maria, Bulacan</address>
+			<expectation>Connectivity ng Hardware and Software</expectation>
+			<firstName>FRANCIS ALBERT</firstName>
+			<lastName>BATAC</lastName>
+			<reason>Pursue AI and CyberSec</reason>
+		</student>
+		<student>
+			<address/>
+			<expectation/>
+			<firstName>TRISTAN JACOB</firstName>
+			<lastName>BAUTISTA</lastName>
+			<reason/>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Designing and integration concepts.</expectation>
+			<firstName>DANIEL JOSEF</firstName>
+			<lastName>CALIWAG</lastName>
+			<reason>In demand at maraming option pag graduate.</reason>
+		</student>
+		<student>
+			<address>Hagonoy, Bulacan</address>
+			<expectation>Mahirap na masarap.</expectation>
+			<firstName>BRENT</firstName>
+			<lastName>CENTENO</lastName>
+			<reason>Madami opportunity.</reason>
+		</student>
+		<student>
+			<address>Apalit, Pampanga</address>
+			<expectation>Hardware and software integration to create a system.</expectation>
+			<firstName>JAIRUZ JERIEL</firstName>
+			<lastName>CORTEZ</lastName>
+			<reason>Computer boy since child.</reason>
+		</student>
+		<student>
+			<address>Calumpit, Bulacan</address>
+			<expectation>Magaaral</expectation>
+			<firstName>ALJO MIGUEL</firstName>
+			<lastName>CULLAMCO</lastName>
+			<reason>Maraming job opportunity.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Middleware and Microservices.</expectation>
+			<firstName>CHARLES ANGELO</firstName>
+			<lastName>DE LUNA</lastName>
+			<reason>Likes to code.</reason>
+		</student>
+		<student>
+			<address>Pulilan , Bulacan</address>
+			<expectation>No idea.</expectation>
+			<firstName>KERR ANDRESS</firstName>
+			<lastName>DELA ROCA</lastName>
+			<reason>Coding is interesting.</reason>
+		</student>
+		<student>
+			<address>Plaridel, Bulacan</address>
+			<expectation>Mapapalaban lalo na sa exam.</expectation>
+			<firstName>JURAY</firstName>
+			<lastName>EVANGELISTA</lastName>
+			<reason>Interest in IT and easy to branch out in multiple fields.</reason>
+		</student>
+		<student>
+			<address/>
+			<expectation/>
+			<firstName>MARK JR</firstName>
+			<lastName>GALANG</lastName>
+			<reason/>
+		</student>
+		<student>
+			<address>Calumpit, Bulacan</address>
+			<expectation>Hone skills ion computer programming and integration.</expectation>
+			<firstName>JIRO YVANN</firstName>
+			<lastName>GATBUNTON</lastName>
+			<reason>Find it enjoyable since HS and into games</reason>
+		</student>
+		<student>
+			<address>Sta. Maria, Bulacan</address>
+			<expectation>Mahirap daw.</expectation>
+			<firstName>GABRIELLE</firstName>
+			<lastName>JACINTO</lastName>
+			<reason>Di alam pa.</reason>
+		</student>
+		<student>
+			<address>Plaridel, Bulacan</address>
+			<expectation>50-50 madali at mahirap.</expectation>
+			<firstName>VICTOR EION</firstName>
+			<lastName>MANUEL</lastName>
+			<reason>Ayaw mag nursing.</reason>
+		</student>
+		<student>
+			<address>Pulilan, Bulacan</address>
+			<expectation>Maraming Matututunan.</expectation>
+			<firstName>OUIM CARL</firstName>
+			<lastName>MERCADO</lastName>
+			<reason>Influence ni kuya.</reason>
+		</student>
+		<student>
+			<address>Calumpit, Bulacan</address>
+			<expectation>Designing different kinds of systems.</expectation>
+			<firstName>DAISHI</firstName>
+			<lastName>NAKAGAWA</lastName>
+			<reason>In demand for opportunites and inspired from collegues.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Sana fun kahit mahirap.</expectation>
+			<firstName>MANUEL JOAQUIN</firstName>
+			<lastName>OCAMPO</lastName>
+			<reason>Kala ko petiks lang.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Build ng systems and makapasa sa course.</expectation>
+			<firstName>DART JHACOB</firstName>
+			<lastName>RAMOS</lastName>
+			<reason>Enhance coding skills.</reason>
+		</student>
+		<student>
+			<address>Sta. Maria, Bulacan</address>
+			<expectation>Lot to learn to be used in future work.</expectation>
+			<firstName>MARK LAUREN</firstName>
+			<lastName>SAGANA</lastName>
+			<reason>Enjoyable course.</reason>
+		</student>
+		<student>
+			<address>Calumpit, Bulacan</address>
+			<expectation>Coding complex systems.</expectation>
+			<firstName>FARYEL FRENZ</firstName>
+			<lastName>STO. DOMINGO</lastName>
+			<reason>Likes computers.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Mahirap kasi ako yung prof.</expectation>
+			<firstName>KENT HERMIN</firstName>
+			<lastName>TADEO</lastName>
+			<reason>Nasimulang subject course</reason>
+		</student>
+		<student>
+			<address>Apalit, Pampanga</address>
+			<expectation>May pagkain.</expectation>
+			<firstName>JETHRO GABRIEL</firstName>
+			<lastName>TRAYFALGAR</lastName>
+			<reason>In demand in today's world.</reason>
+		</student>
+		<student>
+			<address>City of Malolos, Bulacan</address>
+			<expectation>Gumawa ng bagay na mapapadali ang buhay.</expectation>
+			<firstName>JAZREL</firstName>
+			<lastName>VALE</lastName>
+			<reason>Basic lang daw ang IT.</reason>
+		</student>
+		<student>
+			<address>Apalit, Pampanga</address>
+			<expectation>Too many to mention.</expectation>
+			<firstName>NICHO SEBASTIAN</firstName>
+			<lastName>VILLANUEVA</lastName>
+			<reason>Ayaw mag medicine related course.</reason>
+		</student>
+	</students>
+</subject>
