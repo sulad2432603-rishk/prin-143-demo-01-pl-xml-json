@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<retail>
+	<coffeeFlavor>Salted Caramel</coffeeFlavor>
+	<price>120</price>
+	<productCategory>Coffee</productCategory>
+	<productId>M7364</productId>
+	<size>Medium</size>
+</retail>

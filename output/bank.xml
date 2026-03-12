@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<bank>
+	<accountId>A9402</accountId>
+	<accountName>Kristel D. Magiba</accountName>
+	<accountStatus>Active</accountStatus>
+	<balance>Php 70,000</balance>
+	<bankName>Security Bank</bankName>
+	<lastTransaction>02-19-2026</lastTransaction>
+</bank>
