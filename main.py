@@ -51,19 +51,19 @@ subject = Subject(code = "PRIN143", students=[
 fileName = subject.__class__.__name__.lower()
 
 retail = Retail(product_id="M7364", product_category= "Coffee", coffee_flavor= "Salted Caramel", price= 120, size= "Medium")
-filename = retail.__class__.__name__.lower()
+fileName = retail.__class__.__name__.lower()
 
 entertainment = Entertainment(movie_id=74859, movie_title= "City of Angels", genre= "Romance", language= "English", release_year= 1998)
-filename = entertainment.__class__.__name__.lower()
+fileName = entertainment.__class__.__name__.lower()
 
 politician = Politician(candidate_name="Lando T. Gaspuso", position_running_for= "Senator", political_party= "Green Future Party", election_year= 2026, platform= "Improve Urban Green Spaces")
-filename = politician.__class__.__name__.lower()
+fileName = politician.__class__.__name__.lower()
 
 management = Management(student_id="28647", student_name= "Kristel Frisnedi", course= "BSIT", section= "A", year_level= "2nd")
-filename = management.__class__.__name__.lower()
+fileName = management.__class__.__name__.lower()
 
 bank = Bank(bank_name="Security Bank", account_id= "A9402", account_name= "Kristel D. Magiba", account_status= "Active", balance= "Php 70,000", last_transaction= "02-19-2026")
-filename = bank.__class__.__name__.lower()
+fileName = bank.__class__.__name__.lower()
 
 #write_to_xml(subject.as_xml(), fileName)
 #write_to_json(subject.as_json(), fileName)
